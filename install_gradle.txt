@@ -1,0 +1,7 @@
+pour installer gradle :
+- installer "SDKMAN!"
+  commande 1 : curl -s "https://get.sdkman.io" | bash
+  puis suivre les instructions (instruction source à recopier)
+- puis on installe graddle avec "sdk install gradle"  
+- demo pour se familiariser docs.gradle.org/current/samples/sample_building_java_applications.htlm
+
